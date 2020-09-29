@@ -1,0 +1,8 @@
+$colore : red;
+body{
+  background-color: grey;
+}
+
+h2,h3{
+  color: $colore;
+}
